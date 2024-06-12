@@ -1,0 +1,4 @@
+This is the data I want to store in text.txt file1
+This is the data I want to store in text.txt file2
+This is the data I want to store in text.txt file3
+This is the data I want to store in text.txt file4
