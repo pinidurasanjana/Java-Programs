@@ -1,0 +1,7 @@
+Row: A
+Seat Number: 7
+Price: 150.0
+Person Information:
+Name: asa
+Surname: as
+Email: as
